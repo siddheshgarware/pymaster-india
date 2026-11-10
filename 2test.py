@@ -22,3 +22,4 @@ print("average of a, b and c is ",average)
 # to startinteractive mode commands in terminal:- python
 # to end interactive mode commands in terminal:- exit() or quit()
 # REPL:- Read Evaluate Print Loop (when we write the code in interactive mode it is repl)
+

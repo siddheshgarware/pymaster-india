@@ -1,6 +1,4 @@
-# for i in range(4):
-    # for j in range(6):
-        # print("hello world")
+
 
 # n=int(input("enter the number:"))
 # for i in range (1,n+1):

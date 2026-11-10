@@ -44,7 +44,6 @@ print(f"the number is {a} and its type is {type(a)}")
 
 
 
-#7 math Module — Built-in Math Power
 # Function What it does Example Result
 # math.sqrt(x) Square root math.sqrt(144) 12.0
 # math.ceil(x) Round UP math.ceil(3.2) 4
